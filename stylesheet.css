@@ -1,0 +1,13 @@
+body {
+    background-color: rgb(15, 15, 15);
+}
+
+.container-fluid {
+    background-color: rgb(240, 179, 11);
+}
+
+.img-responsive {
+    width:400px;
+    height: 300px;
+}
+
